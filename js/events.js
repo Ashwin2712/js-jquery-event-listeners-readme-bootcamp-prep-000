@@ -32,4 +32,11 @@ pressIt()
 submitIt()
 
 
+<<<<<<< HEAD
+=======
+});
+
+$('p').on("click", function getIt(){
+  alert("Hey!");
+>>>>>>> 07802450f6167fc080317588b31097d3323eb049
 });
